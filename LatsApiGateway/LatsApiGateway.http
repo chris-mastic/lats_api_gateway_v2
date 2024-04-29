@@ -1,0 +1,6 @@
+@LatsApiGateway_HostAddress = http://localhost:5143
+
+GET {{LatsApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
