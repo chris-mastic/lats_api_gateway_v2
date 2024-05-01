@@ -15,7 +15,7 @@ API, receive an auth token and query and make changes to internal data before po
 This application is built using the following technologies:
 
 • ASP.NET Core version 8.0.4
-• EntityFrameworkCore version 8.04
+• EntityFrameworkCore version 8.0.4
 • IFramework.EntityFrameworkCore.Blueshift.MongoDB version 2.2.2
 
 ## Data Flow
